@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/fairhub/static/media/landing.08e18cb9.jpg"
   },
   {
-    "revision": "38cbd25f3fb9f40915eb",
+    "revision": "ad095ed53dd671119197",
     "url": "/fairhub/static/css/main.89800d3d.chunk.css"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/fairhub/static/media/sign.cf8b686b.jpg"
   },
   {
-    "revision": "38cbd25f3fb9f40915eb",
-    "url": "/fairhub/static/js/main.38cbd25f.chunk.js"
+    "revision": "ad095ed53dd671119197",
+    "url": "/fairhub/static/js/main.ad095ed5.chunk.js"
   },
   {
     "revision": "090a5aabae505f67ee0981613d02ee05",
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/fairhub/static/media/bg7.b08234a2.jpg"
   },
   {
-    "revision": "c512366d1483477b6304933d66d5ed23",
+    "revision": "1e651c1e6c16922ebfdab521663580ec",
     "url": "/fairhub/index.html"
   }
 ];
