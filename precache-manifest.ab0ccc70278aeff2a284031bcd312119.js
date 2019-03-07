@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/fairhub/static/media/bg7.b08234a2.jpg"
   },
   {
-    "revision": "1e651c1e6c16922ebfdab521663580ec",
+    "revision": "2a046c213734f11ab05feffce972f018",
     "url": "/fairhub/index.html"
   }
 ];
